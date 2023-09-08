@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: I use he/him pronouns.
 - ⚡ Fun fact: : I can build a web application from scratch in a matter of days with Tea and Ensuring Websites Behave (Most of the Time)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anup-wa)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anup-wa)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 -->
